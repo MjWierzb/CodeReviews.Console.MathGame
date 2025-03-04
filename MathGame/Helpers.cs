@@ -16,8 +16,6 @@ namespace MathGame
 
         internal static void GetGames()
         {
-            var gamesToPrint = games.Where(x => x.Score > 3);
-
             Console.Clear();
             Console.WriteLine("Games History");
             Console.WriteLine("\n");
