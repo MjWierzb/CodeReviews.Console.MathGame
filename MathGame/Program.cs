@@ -1,5 +1,3 @@
-﻿using System.Numerics;
-using System.Threading.Tasks.Sources;
 using MathGame;
 
 /*define variable to import menu class*/
